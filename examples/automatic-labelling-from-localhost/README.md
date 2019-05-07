@@ -1,4 +1,4 @@
-# Automatic Labelling from Localhost
+# Automatic Labelling from localhost
 
 This example demonstrates how to use the
 [root module][root-module] and the
